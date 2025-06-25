@@ -1,4 +1,5 @@
 Solution for https://roadmap.sh/projects/server-stats
+
 ﻿Script to monitor system resources and display them in a user-friendly format(in order).
 1. ##Total CPU usage
 2. ##Top 5 processes by CPU usage
